@@ -1,3 +1,3 @@
-r=int(input())
-A=3.14*(r**2)
-print( A)
+n=int(input())
+F=(3.14)*(n**2)
+print(F)
